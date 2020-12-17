@@ -1,2 +1,6 @@
-# c-program
-developed by Aarti .
+#include<stdio.h>
+intmain();
+{
+printf("HELLO WORLD");
+return0;
+}
